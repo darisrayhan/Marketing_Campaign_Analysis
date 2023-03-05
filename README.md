@@ -10,7 +10,7 @@ Tim kami mengasumsikan bahwa setiap campaign marketing yang dilakukan, terdapat 
 
 ● Widia Nurlina Rahayu
 
-● Daris Rayhan Handoko (me)
+● Daris Rayhan Handoko
 
 ● Nurhidayah T
 
