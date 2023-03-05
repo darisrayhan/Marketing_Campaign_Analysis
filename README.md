@@ -26,10 +26,13 @@ Setelah membuat ML model, tim kami mendapatkan kesimpulan bahwa terdapat kriteri
 
 # Business Recommendation
 **● Targeted Email Marketing:**
-Customer dengan Total Acceptance Campaign dan Frekuensi interaksi tinggi
+Customer dengan Total Acceptance Campaign dan Frekuensi interaksi tinggi.
+
 **● Looking for New Customer:**
 Mengalihkan marketing campaign pada Customer lain dengan profil yang mirip.
+
 **● Product Personalization:**
-Personalisasi produk meat dan sweet pada customer dengan spending meat atau sweet tinggi
+Personalisasi produk meat dan sweet pada customer dengan spending meat atau sweet tinggi.
+
 **● Channel Marketing Optimation:**
-Customer yang join periodnya lama dan recency-nya rendah, umumnya telah memiliki preferensi channel untuk berinteraksi dengan produk/campaign kita, maksimalkan channel tersebut
+Customer yang join periodnya lama dan recency-nya rendah, umumnya telah memiliki preferensi channel untuk berinteraksi dengan produk/campaign kita, maksimalkan channel tersebut.
