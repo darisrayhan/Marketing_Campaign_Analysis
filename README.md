@@ -5,11 +5,17 @@ Tim kami mengasumsikan bahwa setiap campaign marketing yang dilakukan, terdapat 
 
 # Our Team
 ● Dean Dwi Mahendra
+
 ● Vito Muhammad
+
 ● Widia Nurlina Rahayu
+
 ● Daris Rayhan Handoko
+
 ● Nurhidayah T
+
 ● Muh Rizki Alim
+
 ● Sri Devi
 
 # Goals
