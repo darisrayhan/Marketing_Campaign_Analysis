@@ -4,12 +4,12 @@ Sebuah E-Commerce, PT Code telah melaksanakan serangkaian marketing campaign, na
 Tim kami mengasumsikan bahwa setiap campaign marketing yang dilakukan, terdapat biaya yang dikeluarkan yaitu sebesar $3 per customer. Jika campaign tersebut diterima (accepted) oleh customer maka akan ada revenue sebesar $11 per customer sehingga mendapatkan profit sebesar $8 per customer. Namun, jika marketing campaign tersebut tidak direspon oleh customer maka akan ada kerugian sebesar $3 per customer. Berdasarkan hal tersebut tim kami membuat sebuah model Machine Learning untuk memprediksi customer yang akan melakukan respon pada marketing campaign selanjutnya.
 
 # Our Team
-● Dean Dwi Mahendra <\n>
-● Vito Muhammad <\n>
-● Widia Nurlina Rahayu <\n>
-● Daris Rayhan Handoko <\n>
-● Nurhidayah T <\n>
-● Muh Rizki Alim <\n>
+● Dean Dwi Mahendra
+● Vito Muhammad
+● Widia Nurlina Rahayu
+● Daris Rayhan Handoko
+● Nurhidayah T
+● Muh Rizki Alim
 ● Sri Devi
 
 # Goals
