@@ -3,7 +3,7 @@ Sebuah E-Commerce, PT Code telah melaksanakan serangkaian marketing campaign, na
 
 
 # Goals
-● Membuat ML model untuk memprediksi customer response </n>
+● Membuat ML model untuk memprediksi customer response </t>
 ● Meningkatkan response rate sebesar 15 %
 
 # Business Metrics
